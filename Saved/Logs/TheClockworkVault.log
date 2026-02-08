@@ -2566,3 +2566,417 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.02.08-22.53.07:046][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.08-22.53.07:046][975]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.08-22.53.07:046][975]AssetCheck: /Game/Maps/TestEnvironment Validating asset
+[2026.02.08-22.55.34:539][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/Interface_Interact.Interface_Interact
+[2026.02.08-22.55.34:539][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.08-22.55.47:045][881]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.08-22.56.15:408][807]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerChar.BP_PlayerChar
+[2026.02.08-22.56.15:408][807]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.08-23.00.09:096][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.08-23.00.09:188][772]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.08-23.00.09:193][772]LogSlate: Took 0.003941 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.08-23.00.16:409][772]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.08-23.00.16:547][772]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.00.16:547][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.00.16:563][772]LogSlate: Window 'BP_PlayerChar' being destroyed
+[2026.02.08-23.00.16:575][772]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.00.16:575][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.00.16:599][772]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Interactables/Interact.Interact
+	Asset Type: Blueprint
+[2026.02.08-23.00.16:840][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.08-23.00.16:895][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.08-23.00.16:918][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.08-23.00.16:939][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.08-23.00.16:970][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.08-23.00.23:848][279]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.08-23.00.23:851][279]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.08-23.00.23:858][279]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.08-23.00.23:874][281]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.08-23.00.34:252][527]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PhysicsPickup
+[2026.02.08-23.00.34:258][527]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.08-23.00.43:134][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+[2026.02.08-23.00.43:134][688]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.08-23.00.49:133][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.08-23.01.21:670][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.08-23.02.07:716][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/Interface_Interact.Interface_Interact
+[2026.02.08-23.02.07:716][522]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.08-23.02.21:383][438]LogSlate: Window 'Delete Function' being destroyed
+[2026.02.08-23.02.30:844][318]LogBlueprint: Error: [AssetLog] /home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset: [Compiler] Unable to find function with name INT_Grab for Message node  Invalid Message Node .
+[2026.02.08-23.02.30:847][318]LogBlueprint: Error: [AssetLog] /home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset: [Compiler] Could not find a function named "INT_Grab" in 'Interface_Interact_C'.
+Make sure 'Interface_Interact_C' has been compiled for  Invalid Message Node
+[2026.02.08-23.02.30:902][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.08-23.02.31:848][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.08-23.02.54:964][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.02.54:988][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfaces/Interface_Interact] ([2] browsable assets)...
+[2026.02.08-23.02.54:988][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfaces/Interface_Interact]
+[2026.02.08-23.02.54:988][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interface_Interact" FILE="../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interfaces/Interface_Interact.uasset" SILENT=true
+[2026.02.08-23.02.54:990][775]LogSavePackage: Moving output files for package: /Game/Interfaces/Interface_Interact
+[2026.02.08-23.02.54:990][775]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/Interface_InteractB7264E5B1A2B452EB042C51B7C41FB7D.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interfaces/Interface_Interact.uasset'
+[2026.02.08-23.02.54:994][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.675 ms (total: 387.433 ms)
+[2026.02.08-23.02.55:016][775]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-23.02.55:017][775]LogContentValidation: Enabled validators:
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.02.55:017][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.02.55:017][775]AssetCheck: /Game/Interfaces/Interface_Interact Validating asset
+[2026.02.08-23.04.10:599][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerChar.BP_PlayerChar
+[2026.02.08-23.04.10:599][533]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.08-23.04.53:022][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.04.53:046][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2026.02.08-23.04.53:046][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2026.02.08-23.04.53:046][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2026.02.08-23.04.53:054][802]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2026.02.08-23.04.53:054][802]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PlayerChar01384559EC9B42798D5545FA616232A2.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset'
+[2026.02.08-23.04.53:059][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.120 ms (total: 424.554 ms)
+[2026.02.08-23.04.53:084][802]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-23.04.53:084][802]LogContentValidation: Enabled validators:
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.04.53:084][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.04.53:084][802]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2026.02.08-23.06.19:725][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.06.19:755][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2026.02.08-23.06.19:755][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2026.02.08-23.06.19:755][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2026.02.08-23.06.19:764][ 55]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2026.02.08-23.06.19:764][ 55]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PlayerCharEF01A332E78E46A69644A07047020CD8.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset'
+[2026.02.08-23.06.19:769][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.152 ms (total: 468.706 ms)
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: Enabled validators:
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.06.19:792][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.06.19:792][ 55]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2026.02.08-23.07.31:227][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.08-23.09.03:277][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.08-23.09.03:282][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestEnvironment' took 0.035
+[2026.02.08-23.09.03:282][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_PhysicsPickup] ([2] browsable assets)...
+[2026.02.08-23.09.03:294][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup]
+[2026.02.08-23.09.03:294][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_PhysicsPickup]
+[2026.02.08-23.09.03:298][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Interactables/BP_PhysicsPickup_Auto3
+[2026.02.08-23.09.03:298][249]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PhysicsPickup_Auto32A0555A361C4469C89631003932D1374.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/Autosaves/Game/Interactables/BP_PhysicsPickup_Auto3.uasset'
+[2026.02.08-23.09.03:299][249]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.02.08-23.12.17:042][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.08-23.15.53:798][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.15.53:822][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_PhysicsPickup] ([2] browsable assets)...
+[2026.02.08-23.15.53:834][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup]
+[2026.02.08-23.15.53:834][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_PhysicsPickup]
+[2026.02.08-23.15.53:839][545]LogSavePackage: Moving output files for package: /Game/Interactables/BP_PhysicsPickup
+[2026.02.08-23.15.53:839][545]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PhysicsPickup40E703C9314C4991BF095688306C2CEE.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interactables/BP_PhysicsPickup.uasset'
+[2026.02.08-23.15.53:845][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.494 ms (total: 516.200 ms)
+[2026.02.08-23.15.53:868][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-23.15.53:868][545]LogContentValidation: Enabled validators:
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.15.53:868][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.15.53:868][545]AssetCheck: /Game/Interactables/BP_PhysicsPickup Validating asset
+[2026.02.08-23.15.53:883][545]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.08-23.15.54:712][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.08-23.16.10:326][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.08-23.16.11:326][ 29]LogSlate: Window 'Save Content' being destroyed
+[2026.02.08-23.16.11:330][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.16.11:354][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerChar] ([2] browsable assets)...
+[2026.02.08-23.16.11:354][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerChar]
+[2026.02.08-23.16.11:354][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerChar" FILE="../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset" SILENT=true
+[2026.02.08-23.16.11:364][ 29]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerChar
+[2026.02.08-23.16.11:364][ 29]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PlayerCharF59DF2EAEE8C420F930AFF2E55CE39FB.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Player/BP_PlayerChar.uasset'
+[2026.02.08-23.16.11:364][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfaces/Interface_Interact] ([2] browsable assets)...
+[2026.02.08-23.16.11:364][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfaces/Interface_Interact]
+[2026.02.08-23.16.11:364][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interface_Interact" FILE="../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interfaces/Interface_Interact.uasset" SILENT=true
+[2026.02.08-23.16.11:366][ 29]LogSavePackage: Moving output files for package: /Game/Interfaces/Interface_Interact
+[2026.02.08-23.16.11:366][ 29]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/Interface_InteractAF13F75CEFF84ADC87780D98034F5613.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interfaces/Interface_Interact.uasset'
+[2026.02.08-23.16.11:371][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.999 ms (total: 557.200 ms)
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: Enabled validators:
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.16.11:395][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.16.11:395][ 29]AssetCheck: /Game/Player/BP_PlayerChar Validating asset
+[2026.02.08-23.16.11:395][ 29]AssetCheck: /Game/Interfaces/Interface_Interact Validating asset
+[2026.02.08-23.16.13:483][272]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.16.13:485][272]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.16.13:487][272]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.16.13:487][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.13:503][272]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.16.13:503][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.13:533][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.08-23.16.13:533][272]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.16.13:533][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.13:590][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.08-23.16.15:011][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-23.16.15:016][438]LogPlayLevel: [PlayLevel] Compiling BP_PlayerChar before play...
+[2026.02.08-23.16.15:055][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.08-23.16.15:057][438]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2026.02.08-23.16.15:057][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.16.15:059][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001841s)
+[2026.02.08-23.16.15:059][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestEnvironment.TestEnvironment to /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment (0.001870s)
+[2026.02.08-23.16.15:081][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.08-23.16.15:082][438]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2026.02.08-23.16.15:083][438]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2026.02.08-23.16.15:084][438]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.02.08-23.16.15:084][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-23.16.15:084][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-23.16.15:084][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-23.16.15:084][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-23.16.15:084][438]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.02.08-23.16.15:084][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2026.02.08-23.16.15:909][438]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.02.08-23.16.15:942][438]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=13
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.02.08-23.16.15:943][438]LogInit: FAudioDevice initialized with ID 13.
+[2026.02.08-23.16.15:943][438]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestEnvironment'.
+[2026.02.08-23.16.15:943][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.08-23.16.15:946][438]LogLoad: Game class is 'BP_GameMode_C'
+[2026.02.08-23.16.15:947][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2026.02.08-17.16.15
+[2026.02.08-23.16.15:947][438]LogWorld: Bringing up level for play took: 0.000623
+[2026.02.08-23.16.15:948][438]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.02.08-23.16.15:950][438]PIE: Server logged in
+[2026.02.08-23.16.15:951][438]PIE: Play in editor total start time 0.936 seconds.
+[2026.02.08-23.16.17:184][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.16.17:184][581]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.16.17:185][581]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.16.17:185][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.17:185][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-23.16.17:190][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.17:217][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.16.17:217][581]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.08-23.16.17:265][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.08-23.16.17:321][582]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.02.08-23.16.20:537][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup_C
+[2026.02.08-23.16.20:537][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup_C
+[2026.02.08-23.16.20:539][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup as actor: BP_PhysicsPickup_C /Game/Maps/TestEnvironment.TestEnvironment:PersistentLevel.BP_PhysicsPickup_C_0
+[2026.02.08-23.16.20:540][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup as actor: BP_PhysicsPickup_C /Game/Maps/TestEnvironment.TestEnvironment:PersistentLevel.BP_PhysicsPickup_C_0
+[2026.02.08-23.16.20:953][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.08-23.16.20:957][972]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.02.08-23.16.20:961][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup_C
+[2026.02.08-23.16.20:961][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup_C
+[2026.02.08-23.16.20:963][972]LogActorFactory: Actor Factory spawned Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup as actor: BP_PhysicsPickup_C /Game/Maps/TestEnvironment.TestEnvironment:PersistentLevel.BP_PhysicsPickup_C_1
+[2026.02.08-23.16.20:965][972]LogActorFactory: Actor Factory spawned Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup as actor: BP_PhysicsPickup_C /Game/Maps/TestEnvironment.TestEnvironment:PersistentLevel.BP_PhysicsPickup_C_1
+[2026.02.08-23.16.23:494][266]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-23.16.23:498][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-23.16.23:498][266]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.16.23:500][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002066s)
+[2026.02.08-23.16.23:500][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestEnvironment.TestEnvironment to /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment (0.002094s)
+[2026.02.08-23.16.23:524][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.08-23.16.23:528][266]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2026.02.08-23.16.23:529][266]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2026.02.08-23.16.23:530][266]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.02.08-23.16.23:530][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-23.16.23:530][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-23.16.23:530][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-23.16.23:530][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-23.16.23:530][266]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.02.08-23.16.23:530][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2026.02.08-23.16.24:238][266]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.02.08-23.16.24:272][266]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2026.02.08-23.16.24:272][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-23.16.24:272][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-23.16.24:272][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-23.16.24:272][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=14
+[2026.02.08-23.16.24:273][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.02.08-23.16.24:273][266]LogInit: FAudioDevice initialized with ID 14.
+[2026.02.08-23.16.24:273][266]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestEnvironment'.
+[2026.02.08-23.16.24:273][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.08-23.16.24:276][266]LogLoad: Game class is 'BP_GameMode_C'
+[2026.02.08-23.16.24:276][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2026.02.08-17.16.24
+[2026.02.08-23.16.24:277][266]LogWorld: Bringing up level for play took: 0.000707
+[2026.02.08-23.16.24:277][266]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.02.08-23.16.24:279][266]PIE: Server logged in
+[2026.02.08-23.16.24:280][266]PIE: Play in editor total start time 0.783 seconds.
+[2026.02.08-23.16.32:614][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.16.32:614][261]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.16.32:614][261]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.16.32:614][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.32:614][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-23.16.32:619][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.16.32:647][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.16.32:647][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.08-23.16.32:695][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.08-23.16.32:733][262]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.02.08-23.17.02:777][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+[2026.02.08-23.17.02:778][575]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.08-23.17.59:024][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.08-23.18.00:422][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.18.00:446][469]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_PhysicsPickup] ([2] browsable assets)...
+[2026.02.08-23.18.00:452][469]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup]
+[2026.02.08-23.18.00:452][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_PhysicsPickup]
+[2026.02.08-23.18.00:457][469]LogSavePackage: Moving output files for package: /Game/Interactables/BP_PhysicsPickup
+[2026.02.08-23.18.00:457][469]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PhysicsPickupDDC4493BB85848D9AC992698CBDB4DC1.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interactables/BP_PhysicsPickup.uasset'
+[2026.02.08-23.18.00:462][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.850 ms (total: 597.050 ms)
+[2026.02.08-23.18.00:486][469]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-23.18.00:486][469]LogContentValidation: Enabled validators:
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.18.00:486][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.18.00:486][469]AssetCheck: /Game/Interactables/BP_PhysicsPickup Validating asset
+[2026.02.08-23.18.01:662][607]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.18.01:664][607]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.18.01:705][607]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.18.01:705][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.18.01:760][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.08-23.18.02:765][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-23.18.02:768][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-23.18.02:793][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.18.02:795][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002106s)
+[2026.02.08-23.18.02:795][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestEnvironment.TestEnvironment to /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment (0.002139s)
+[2026.02.08-23.18.02:824][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.08-23.18.02:826][723]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2026.02.08-23.18.02:827][723]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2026.02.08-23.18.02:828][723]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.02.08-23.18.02:828][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-23.18.02:828][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-23.18.02:828][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-23.18.02:828][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-23.18.02:828][723]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.02.08-23.18.02:828][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2026.02.08-23.18.03:674][723]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.02.08-23.18.03:708][723]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2026.02.08-23.18.03:708][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-23.18.03:708][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-23.18.03:708][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-23.18.03:709][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=15
+[2026.02.08-23.18.03:709][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.02.08-23.18.03:709][723]LogInit: FAudioDevice initialized with ID 15.
+[2026.02.08-23.18.03:709][723]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestEnvironment'.
+[2026.02.08-23.18.03:709][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.02.08-23.18.03:712][723]LogLoad: Game class is 'BP_GameMode_C'
+[2026.02.08-23.18.03:713][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2026.02.08-17.18.03
+[2026.02.08-23.18.03:713][723]LogWorld: Bringing up level for play took: 0.000639
+[2026.02.08-23.18.03:713][723]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.02.08-23.18.03:715][723]PIE: Server logged in
+[2026.02.08-23.18.03:716][723]PIE: Play in editor total start time 0.949 seconds.
+[2026.02.08-23.18.08:874][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.18.08:874][337]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.18.08:874][337]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.18.08:874][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.18.08:875][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-23.18.08:879][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.18.08:902][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.18.08:903][337]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.02.08-23.18.08:949][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.08-23.18.08:987][338]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.02.08-23.18.32:402][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup
+[2026.02.08-23.18.32:402][672]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.08-23.20.01:817][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.08-23.20.03:076][748]LogSlate: Window 'Save Content' being destroyed
+[2026.02.08-23.20.03:081][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-23.20.03:143][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.08-23.20.03:150][748]LogSavePackage: Moving output files for package: /Game/Maps/TestEnvironment
+[2026.02.08-23.20.03:151][748]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/TestEnvironmentB5255FD2E47141A8ADFE165BE00D6DF1.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Maps/TestEnvironment.umap'
+[2026.02.08-23.20.03:155][748]LogFileHelpers: Saving map 'TestEnvironment' took 0.049
+[2026.02.08-23.20.03:155][748]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interactables/BP_PhysicsPickup] ([2] browsable assets)...
+[2026.02.08-23.20.03:161][748]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interactables/BP_PhysicsPickup.BP_PhysicsPickup]
+[2026.02.08-23.20.03:161][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interactables/BP_PhysicsPickup]
+[2026.02.08-23.20.03:166][748]LogSavePackage: Moving output files for package: /Game/Interactables/BP_PhysicsPickup
+[2026.02.08-23.20.03:166][748]LogSavePackage: Moving '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Saved/BP_PhysicsPickupDD73CBFF5CA748BC940B9B2FA924B65E.tmp' to '../../../../../home/jordan/Documents/SNHU/GAM-303/repos/TheClockworkVault/Content/Interactables/BP_PhysicsPickup.uasset'
+[2026.02.08-23.20.03:172][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.927 ms (total: 687.977 ms)
+[2026.02.08-23.20.03:197][748]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.08-23.20.03:197][748]LogContentValidation: Enabled validators:
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-23.20.03:197][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-23.20.03:197][748]AssetCheck: /Game/Maps/TestEnvironment Validating asset
+[2026.02.08-23.20.03:197][748]AssetCheck: /Game/Interactables/BP_PhysicsPickup Validating asset
+[2026.02.08-23.20.04:638][910]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.20.04:640][910]LogSlate: Window 'BP_PhysicsPickup' being destroyed
+[2026.02.08-23.20.04:669][910]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.20.04:669][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.20.04:724][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.08-23.20.05:927][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-23.20.05:931][ 45]LogPlayLevel: [PlayLevel] Compiling BP_PhysicsPickup before play...
+[2026.02.08-23.20.05:976][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.08-23.20.05:978][ 45]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2026.02.08-23.20.06:013][ 45]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.20.06:015][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002139s)
+[2026.02.08-23.20.06:015][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestEnvironment.TestEnvironment to /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment (0.002170s)
+[2026.02.08-23.20.06:037][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.08-23.20.06:038][ 45]LogChaosDD: Creating Chaos Debug Draw Scene for world TestEnvironment
+[2026.02.08-23.20.06:040][ 45]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2026.02.08-23.20.06:041][ 45]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.02.08-23.20.06:041][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-23.20.06:041][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-23.20.06:041][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-23.20.06:041][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-23.20.06:041][ 45]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.02.08-23.20.06:041][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL2'
+[2026.02.08-23.20.06:866][ 45]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.02.08-23.20.06:899][ 45]LogAudioMixer: Display: Using Audio Hardware Device Starship/Matisse HD Audio Controller Digital Stereo (IEC958)
+[2026.02.08-23.20.06:899][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-23.20.06:899][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-23.20.06:899][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-23.20.06:900][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=16
+[2026.02.08-23.20.06:900][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.02.08-23.20.06:900][ 45]LogInit: FAudioDevice initialized with ID 16.
+[2026.02.08-23.20.06:900][ 45]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestEnvironment'.
+[2026.02.08-23.20.06:901][ 45]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.08-23.20.06:904][ 45]LogLoad: Game class is 'BP_GameMode_C'
+[2026.02.08-23.20.06:905][ 45]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestEnvironment.TestEnvironment up for play (max tick rate 0) at 2026.02.08-17.20.06
+[2026.02.08-23.20.06:905][ 45]LogWorld: Bringing up level for play took: 0.000693
+[2026.02.08-23.20.06:905][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.02.08-23.20.06:907][ 45]PIE: Server logged in
+[2026.02.08-23.20.06:908][ 45]PIE: Play in editor total start time 0.978 seconds.
+[2026.02.08-23.20.25:725][302]LogDerivedDataCache: /home/jordan/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.08-23.20.26:424][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.20.26:424][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestEnvironment
+[2026.02.08-23.20.26:424][383]LogWorld: UWorld::CleanupWorld for TestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-23.20.26:424][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.20.26:425][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-23.20.26:430][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-23.20.26:458][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-23.20.26:458][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.08-23.20.26:505][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.08-23.20.26:544][384]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.02.08-23.21.32:084][736]Cmd: SELECT NONE
